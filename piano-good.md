@@ -2,11 +2,12 @@
 
 3 components I've found:
 
+(I will build skill at these in this order)
 1. Playing sheet music
 2. Improv music
 3. Playing by ear
 
-How to become a good x genre player
+How to become a good sheet music player
 ------------------------------------
 
 1. Download a piece of music from x genre
@@ -17,11 +18,6 @@ How to become a good x genre player
     - Don't repeat the same small section twice in a day
 4. Keep doing that until you have skills
 5. What matters to reading is how much you read
-
-Songs to master:
-  1. Auf Einer Berg
-  2. Sweden C418
-  3. Für elise
   
 
 Improv 
