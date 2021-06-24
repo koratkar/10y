@@ -11,8 +11,18 @@ How to become a good x genre player
 
 1. Download a piece of music from x genre
 2. Master it
-3. Keep doing that until you have skills
-4. What matters to reading is how much you read
+    - Memorize a small section of the piece
+    - Play it intensely for up to 20min
+    - Play another
+    - Don't repeat the same small section twice in a day
+4. Keep doing that until you have skills
+5. What matters to reading is how much you read
+
+Songs to master:
+  1. Auf Einer Berg
+  2. Sweden C418
+  3. Für elise
+  
 
 Improv 
 ------
