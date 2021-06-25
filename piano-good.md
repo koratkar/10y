@@ -1,23 +1,34 @@
 # How to build piano skills
 
-3 components I've found:
-
 (I will build skill at these in this order)
 1. Playing sheet music
 2. Improv music
 3. Playing by ear
 
+Genre 
+-----
+
+What matters most to a comic artists sucess is not how many comics they draw, but how many different genres they work in. Piano isn't comic books, but the same principle applies.
+
+Genres to get good at:
+- Jazz (improvisation jazz) (useful: https://www.thejazzpianosite.com/jazz-piano-lessons/)
+- Clasical (use sheet music)
+- Blues (improvization)
+- Rock
+- Soul
+- House
+- Trance 
+
+
 How to become a good sheet music player
 ------------------------------------
 
-1. Download a piece of music from x genre
+1. Print a piece of music
 2. Master it
     - Memorize a small section of the piece
     - Play it intensely for up to 20min
     - Play another
-    - Don't repeat the same small section twice in a day
 4. Keep doing that until you have skills
-5. What matters to reading is how much you read
   
 
 Improv 
