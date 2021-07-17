@@ -28,8 +28,11 @@ How to become a good sheet music player
     - Memorize a small section of the piece
     - Play it intensely for up to 20min
     - Play another
-4. Keep doing that until you have skills
-  
+    - Repeat daily
+4. Keep doing this until you have skills
+
+Sheet music skill level aim: La Campanella and ability to sight read
+
 
 Improv 
 ------
@@ -43,8 +46,9 @@ Playing by Ear
 ---------------
 
 1. Find a song
-2. Guess at how to play it
+2. Find Chord progression or scales
 3. Check the notes to see how close you were
+4. Keep doing this until you have skills
 
 
 Appropriate skill level
