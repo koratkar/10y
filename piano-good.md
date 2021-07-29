@@ -32,7 +32,9 @@ How to become a good sheet music player
 4. Keep doing this until you have skills
 
 Sheet music skill level aim: La Campanella and ability to sight read
+List of some fun songs to master: 
 
+- [ ] Sweden (C418)
 
 Improv 
 ------
@@ -45,10 +47,9 @@ Improv
 Playing by Ear
 ---------------
 
-1. Find a song
-2. Find Chord progression or scales
-3. Check the notes to see how close you were
-4. Keep doing this until you have skills
+1. Find Chord progression or scale for a song
+2. Play it by ear
+3. Repeat until you have skills
 
 
 Appropriate skill level
