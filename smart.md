@@ -10,9 +10,9 @@ From Harry Potter and the Methods of Rationality:
 Reading list:
 - [ ] Feynman Lectures
 - [ ] Judgment Under Uncertainty
-- [ ] Bayesian Statistics (using arbital.com)
+- [x] Bayesian Statistics (using arbital.com)
 - [ ] The Beginning of Infinity
-- [ ] Influence: Science and Practice
+- [ ] Influence by Cialdini
 
 
 The books will be helpful, but not enough!
@@ -24,14 +24,10 @@ The books will be helpful, but not enough!
 - Talk to people about it
 
 ### Core Subjects
-- Scientific Thinking
-  - Rationality
-  - Bayesian Statistics
-  - Fermi estimation
+- Rationality
 - Physics
 - Computers
 - Music
-- Ethics
 - Philosophy
-- Maths
-- Human interaction methods
+- Biology
+- Artificial Intelligence
