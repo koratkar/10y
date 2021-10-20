@@ -1,9 +1,11 @@
 # How to build piano skills
 
-Areas of Interest
-1. Classical Music
-2. Improv / Jazz
-3. Music Theory
+Core Plan
+---------
+1. Get good at classical music
+2. Get good at jazz and improvization
+3. Get good at Music Theory
+4. Generate a wide musical breadth in genres
 
 Genres
 ------
