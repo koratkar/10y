@@ -2,7 +2,7 @@
 
 Core Plan
 ---------
-1. Get good at classical music
+1. Try classical music (done)
 2. Get good at jazz and improvization
 3. Get good at Music Theory
 4. Generate a wide musical breadth in genres
@@ -35,13 +35,17 @@ Sheet music skill level aim: La Campanella and ability to sight read
 List of some fun songs to master: 
 
 - [x] Sweden (C418)
-- [ ] Für elise
+- [x] Für elise
 - [ ] Sonata Simple
 - [ ] Moonlight Sonata
+
+Update: friendship with sheet music is over. I'm best friends with *jazzzzz lead sheets* now.
 
 Jazz
 ----
 Resource: Jeremy Siskind
+
+2022-02-02: Jeremy Siskind is awesome, but his books feel like homework. I've read about how Coltrane learned/practiced and its very different than "by the book." All he would do is grab a piece of music, practice it till the sun came back up, keep practicing it, finally master it, then master it in another key. I'm going to replicate him. 
 
 Improvization
 -------------
@@ -50,7 +54,7 @@ resource: Siskind's Improvization Exercises: [add here]
 
 Music Theory
 ------------
-status: Skill building technique unknown. Taking AP music theory next year. 
+status: Skill building technique unknown. 
 Resource: http://openmusictheory.com/
 
 
