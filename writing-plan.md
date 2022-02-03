@@ -21,3 +21,5 @@ Larger Journey
 1. Start by writing for publications
 2. Write insightful and useful content: generate readers 
 3. Create a public persona which functions as marketing to compound readers
+
+2022-02-02: I've been writing a lot of fiction recently, in the style of Neal Stephenson. Some of my non-fiction emulates Taleb, that's been fun. 
